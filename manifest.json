@@ -1,1 +1,18 @@
-{"name": "Rolling Wrench Master", "short_name": "RWD Master", "start_url": "index.html", "display": "standalone", "theme_color": "#ff2e00", "background_color": "#060606", "icons": [{"src": "icon.png", "sizes": "512x512", "type": "image/png"}]}
+{
+  "name": "Rolling Wrench Diesel Master",
+  "short_name": "RWD Master",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "theme_color": "#ff2e00",
+  "background_color": "#060606",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
